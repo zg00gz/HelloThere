@@ -1,2 +1,2 @@
 # HelloThere
-An empty project
+An empty project to get started
